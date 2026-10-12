@@ -24,14 +24,14 @@ Aquí puedes ver cómo funciona la aplicación:
 
 ## 📌Instalación y Uso
 
- 1**Clona el repositorio:**  
+ **1.Clona el repositorio:**  
 Abre tu terminal y ejecuta el siguiente comando para clonar el repositorio:
   git clone https://github.com/MrMikeRG/challenge-amigo-secreto
   
-2 **Abre el archivo index.html en tu navegador.** 
+  **2.Abre el archivo index.html en tu navegador.** 
 Puedes hacer doble clic en el archivo o abrirlo directamente en tu navegador para ver la aplicación en acción.
 
-3 **Agrega los nombres de tus amigos o participantes en la lista y presiona el botón para que el sistema seleccione un "Amigo Secreto" al azar. **
+  **3.Agrega los nombres de tus amigos o participantes en la lista y presiona el botón para que el sistema seleccione un "Amigo Secreto" al azar.**
 
 ## 💡 Mejoras futuras  
 -  Reseteo del juego – Para empezar una nueva ronda.  
